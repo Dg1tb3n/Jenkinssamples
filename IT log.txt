@@ -1,0 +1,13 @@
+2022-11-22 13:31:02,324 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,324 - starting up
+2022-11-22 13:31:02,559 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,559 - Home: C:\Program Files\Wincor Nixdorf\TPiSCAN
+2022-11-22 13:31:02,559 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,559 - Data home: C:\ProgramData\Wincor Nixdorf\TPiSCAN
+2022-11-22 13:31:02,559 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,559 - Local home C:\ProgramData\Wincor Nixdorf\TPiSCAN
+2022-11-22 13:31:02,653 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,653 - Admin version: 2.12.7.1
+2022-11-22 13:31:02,653 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:02,653 - started with arguments: -composite ISCANEASY-C1010-IC20 -customer IT-lidl
+2022-11-22 13:31:04,340 INFO   main                               - com.wn.retail.iscan.launcher.Launcher  13:31:04,340 - default packageConfiguration is C:\ProgramData\Wincor Nixdorf\TPiSCAN\admin\launcher\work\PackageConfiguration.xml)
+2022-11-22 13:31:04,340 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:04,340 - compositeName = ISCANEASY-C1010-IC20
+2022-11-22 13:31:04,340 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:04,340 - instanceNo = 0
+2022-11-22 13:31:04,340 INFO   main                               -   com.wn.retail.iscan.launcher.Launcher  13:31:04,340 - packageConfigurationFilename = C:\ProgramData\Wincor Nixdorf\TPiSCAN\admin\launcher\work\PackageConfiguration.xml
+2022-11-22 13:31:04,371 INFO   main                               -      com.wn.retail.iscan.launcher.Launcher  13:31:04,371 - reading PackageContents from: C:\Program Files\Wincor Nixdorf\TPiSCAN\runtime-14.4.12.593\PackageContents.xml
+2022-11-22 13:31:04,387 INFO   main          com.wn.retail.iscan.launcher.Launcher  13:31:04,387 - unexpected tag vmClasspathExtensions found in C:\Program Files\Wincor Nixdorf\TPiSCAN\runtime-14.4.12.593\PackageContents.xml in line 20
+2022-11-22 13:31:05,371 INFO   main                               -                        com.wn.retail.iscan.launcher.Launcher  13:31:05,371 - finished
