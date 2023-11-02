@@ -1,0 +1,17 @@
+
+
+error -level 1= exit no restart
+error -level 99= exit no restart(eg- wrong OS version)
+
+
+  Text=This utility will return the following error codes:
+
+  Text=Error code 0 = Sucessful
+
+  Text=Error code 1 = An error ocurred with this script
+
+  Text=Error code 99 = The system has not met the required specifications. No changes have been made
+
+  Text=Error code 2 = The current BIOS version must be upgraded before continues, the system has updated the BIOS FW and rebooted, it will require the tool to be executed again
+end
+
